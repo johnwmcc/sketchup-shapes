@@ -23,7 +23,7 @@ For development installations you will need to copy the contents of the `src` fo
 
 If you're an owner of this repository, here are some steps.
 
-Get a local copy of the files. This will create a sketchup-stl folder.
+Get a local copy of the files. This will create a sketchup-shapes folder.
 
     git clone https://github.com/SketchUp/sketchup-shapes.git  
     cd shapes  
@@ -46,7 +46,7 @@ If you're a SketchUp Ruby community member, you need to fork this repository (If
 
 1. Add this repository as a remote so you can pull in updates to your clone.
 
-        git remote add upstream https://github.com/SketchUp/sketchup-stl.git
+        git remote add upstream https://github.com/SketchUp/sketchup-shapes.git
 
 1. Make your changes to the code in your cloned repository, then commit. (`git commit ...`)
 
